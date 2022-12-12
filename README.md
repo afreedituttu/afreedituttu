@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Afreedi
 
 - 🔭 I’m currently working as a Freelancer
-- 🌱 I’m self learned passionate Backen developer and a Webdesigner
+- 🌱 I’m self learned passionate Backend developer and a Webdesigner
 - 👯 I’m looking to collaborate on amazing projects or to be a part of any team
 - 💬 Ask me about anything
 - 📫 How to reach me: afreedisulfiker@gmail.com
